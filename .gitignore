@@ -1,0 +1,13 @@
+**/.settings/
+**/target/
+**/node_modules/
+**/node
+**/.che/
+**/.project
+**/.classpath
+**/gen/
+**/.idea/
+**/bin/
+**/.log
+**/data/*
+**/package-lock.json
